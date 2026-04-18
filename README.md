@@ -7,7 +7,7 @@ I'm a Student from Malaysia. I love building things, learning new technologies, 
 - 🔭 I’m currently working on **deeplink**
 - 🌱 I’m currently learning EVERYTHING I CAN 
 - 👯 I’m looking to collaborate on **AI PROJECTS**
-- ⚡ Fun fact: **LLM IS SCARED OF ME**
+-
 
 ## 💻 Tech Stack
 
